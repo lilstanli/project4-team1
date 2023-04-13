@@ -12,13 +12,12 @@ Types methods:
 
 Algorithms Used:
     1. Neural Networks ==> Stanley
-    2. Random Forests
-    3. K Means Clustering ==> Fazeleh
+    2. Random Forests ==> Fazeleh
+    3. Decision Trees ==> Maliha
     4. Support Vector Machine
     5. Linear Regression
     6. Logistic Regression
-    7. Decision Trees ==> Maliha
-    8. K Nearest Neighbours
+    7. K Nearest Neighbours
     
 ----------------------------------------------------------------------------------------------------------------
 
