@@ -1,0 +1,40 @@
+ETL
+    Extraction
+    Cleaning
+    Loading to DB
+
+
+Machine Learning
+----------------
+Types methods: 
+    Classification
+        Binary classification ((0) Good Credit Record, (1) Bad Credit Record)
+
+Algorithms Used:
+    1. Neural Networks ==> Stanley
+    2. Random Forests ==> Fazeleh
+    3. Decision Trees ==> Maliha
+    4. Support Vector Machine
+    5. Linear Regression
+    6. Logistic Regression
+    7. K Nearest Neighbours
+    
+----------------------------------------------------------------------------------------------------------------
+
+Process
+    Extract and redefine the target labels from the records dataset
+        research and use researched formular to convert catagical data to binary classified labels for training purposes
+    
+    Reshape the features dataset creating vectors out of the features.
+        Convert all categorical data to numerical values to establish relationships whiles expanding the features
+        Plot graphs to check balance of dataset and to find out which columns should benefit from resampling
+        
+ 
+    Append the target labels to the features dataset
+    
+    Train the dataset
+        Optimize the training data  for better accuracy where possible
+            - Use a hyperparameter tuning method to get the right optimization parameters where possible
+    
+    Test the trained dataset using an unknown test data that has no labels
+    
