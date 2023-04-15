@@ -1,6 +1,10 @@
 # Config.py file which houses Postgres elements
 config.py
 
+# Don't add these folders
+backups/
+untitled_project/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

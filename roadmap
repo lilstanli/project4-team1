@@ -28,9 +28,10 @@ Process
     Reshape the features dataset creating vectors out of the features.
         Convert all categorical data to numerical values to establish relationships whiles expanding the features
         Plot graphs to check balance of dataset and to find out which columns should benefit from resampling
-        
- 
-    Append the target labels to the features dataset
+
+
+
+Append the target labels to the features dataset
     
     Train the dataset
         Optimize the training data  for better accuracy where possible
