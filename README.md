@@ -1,5 +1,3 @@
-# project4-team1 - Machine Learning
-
 # CREDIT CARD APPROVAL PREDICTION
 ## Machine Learning
 
