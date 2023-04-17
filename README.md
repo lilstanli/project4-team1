@@ -5,36 +5,32 @@
 
 
 ## File system
-    .gitignore
-    decision_tree.ipynb
-    logistic_regression.ipynb
-    neural_network.ipynb
-    pre_processing.ipynb
-    random_forest.ipynb
-    README.md
- 
+```sh
+.gitignore
+decision_tree.ipynb
+logistic_regression.ipynb
+neural_network.ipynb
+pre_processing.ipynb
+random_forest.ipynb
+README.md
 +---Output
-        credit_decision_tree_optimized.pdf
-        credit_decision_tree_optimized.png
-        credit_decision_tree_preoptimized.pdf
-        credit_decision_tree_preoptimized.png
-        full_data.csv
-        pre_encoded.csv
- 
+	credit_decision_tree_optimized.pdf
+	credit_decision_tree_optimized.png
+	credit_decision_tree_preoptimized.pdf
+	credit_decision_tree_preoptimized.png
+	full_data.csv
+	pre_encoded.csv
 +---presentation and summary
-        summary.docx
-        summary.pdf
- 
+	summary.docx
+	summary.pdf
 +---readmeimages
-        card-png-pic.png
- 
+	card-png-pic.png
 +---Resources
-        application_record.csv
-        credit_record.csv
-		
+	application_record.csv
+	credit_record.csv
 +---untitled_project
-		(multiple hyperparameter tuning files)
-
+	(multiple hyperparameter tuning files)
+```
 
 
 ## Resources folder
