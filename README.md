@@ -52,14 +52,14 @@ Ignores tracking of certain files
 
 ## Notebook files
 ### Preprocessing notebook
-pre_processing.ipynb
+- pre_processing.ipynb
 
 
 ### Machine Learning notebooks
-decision_tree.ipynb
-logistic_regression.ipynb
-neural_network.ipynb
-random_forest.ipynb
+- decision_tree.ipynb
+- logistic_regression.ipynb
+- neural_network.ipynb
+- random_forest.ipynb
 
 
 ### Authors
